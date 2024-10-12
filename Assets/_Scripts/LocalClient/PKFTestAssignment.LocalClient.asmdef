@@ -1,0 +1,19 @@
+{
+    "name": "PKFTestAssignment.LocalClient",
+    "rootNamespace": "PKFTestAssignment.LocalClient",
+    "references": [
+        "GUID:c5645d7942bd4104a95194dad78afcd7",
+        "GUID:adaabbe324fbbae4fb8e5b48b95eaa5f",
+        "GUID:6b22a82b497b7af43b0583df5efe166a",
+        "GUID:336ca1a4bc1753b4ba741564d35dbed0"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

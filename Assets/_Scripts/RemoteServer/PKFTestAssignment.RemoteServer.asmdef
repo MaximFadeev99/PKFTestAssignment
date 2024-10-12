@@ -1,0 +1,20 @@
+{
+    "name": "PKFTestAssignment.RemoteServer",
+    "rootNamespace": "PKFTestAssignment.RemoteServer",
+    "references": [
+        "GUID:9065fac07fb549144a17f9a4dc67ac6c",
+        "GUID:c5645d7942bd4104a95194dad78afcd7",
+        "GUID:336ca1a4bc1753b4ba741564d35dbed0",
+        "GUID:adaabbe324fbbae4fb8e5b48b95eaa5f",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

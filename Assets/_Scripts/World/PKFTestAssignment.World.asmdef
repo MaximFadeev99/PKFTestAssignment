@@ -1,0 +1,19 @@
+{
+    "name": "PKFTestAssignment.World",
+    "rootNamespace": "PKFTestAssignment.World",
+    "references": [
+        "GUID:adaabbe324fbbae4fb8e5b48b95eaa5f",
+        "GUID:ffcc8890dc36b794a98e31200ae4a857",
+        "GUID:336ca1a4bc1753b4ba741564d35dbed0",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
